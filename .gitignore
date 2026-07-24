@@ -1,0 +1,14 @@
+# Compiled Object files
+*.o
+*.out
+
+# Executables
+*.exe
+
+# Database/Data files created by the program
+inventory.dat
+temp.dat
+
+# OS specific files
+.DS_Store
+Thumbs.db
